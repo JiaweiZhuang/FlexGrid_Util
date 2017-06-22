@@ -73,6 +73,7 @@ METRES:                      4x5
 
 # --- A3dyn  metfields   ---
 * DTRAIN    $METDIR/$YYYY/$MM/$METMODEL.$YYYY$MM$DD.A3dyn.$METRES.nc DTRAIN   2011-2014/1-12/1-31/0-23/+90minute C xyz  1  * -  1 1
+* OMEGA     $METDIR/$YYYY/$MM/$METMODEL.$YYYY$MM$DD.A3dyn.$METRES.nc OMEGA    2011-2014/1-12/1-31/0-23/+90minute C xyz  1  * -  1 1
 * RH        $METDIR/$YYYY/$MM/$METMODEL.$YYYY$MM$DD.A3dyn.$METRES.nc RH       2011-2014/1-12/1-31/0-23/+90minute C xyz  1  * -  1 1
 * U         $METDIR/$YYYY/$MM/$METMODEL.$YYYY$MM$DD.A3dyn.$METRES.nc U        2011-2014/1-12/1-31/0-23/+90minute C xyz  1  * -  1 1
 * V         $METDIR/$YYYY/$MM/$METMODEL.$YYYY$MM$DD.A3dyn.$METRES.nc V        2011-2014/1-12/1-31/0-23/+90minute C xyz  1  * -  1 1
